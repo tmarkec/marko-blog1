@@ -1,0 +1,1 @@
+web: gunicorn marko-blog1.wsgi
