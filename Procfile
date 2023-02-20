@@ -1,1 +1,1 @@
-web: gunicorn marko-blog1.wsgi:application
+web: gunicorn marko-blog1.wsgi
